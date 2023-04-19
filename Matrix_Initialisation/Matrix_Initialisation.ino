@@ -1,4 +1,4 @@
- #define HIGH1 2
+#define HIGH1 2
  unsigned char i;
  unsigned char j; 
 /*Port Definitions*/

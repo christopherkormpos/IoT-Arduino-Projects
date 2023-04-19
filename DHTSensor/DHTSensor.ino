@@ -8,7 +8,7 @@ void setup()
   Serial.println();
   Serial.println("Status\tHumidity (%)\tTemperature (C)\t");
 
-  dht.setup(12); // data pin 12
+  dht.setup(7); // data pin 7
 }
 
 void loop()
